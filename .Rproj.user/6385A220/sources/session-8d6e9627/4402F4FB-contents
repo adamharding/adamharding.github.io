@@ -1,0 +1,16 @@
+---
+title: "Adam Harding"
+image: headshotadam.jpeg
+about:
+  template: jolla
+  links:
+    - icon: github
+      text: GitHub
+      href: https://github.com/adamharding
+    - icon: linkedin
+      text: LinkedIn
+      href: www.linkedin.com/in/adam-harding-13909a2b6
+    - icon: inboxes
+      text: Contact
+      href: mailto:ah398@uark.edu
+---
